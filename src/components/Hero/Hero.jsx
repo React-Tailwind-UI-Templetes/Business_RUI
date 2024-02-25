@@ -14,7 +14,7 @@ function Hero() {
     <Container>
       <div className=" place-items-center place-content-between xl:-mt-16 grid grid-cols-1 px-5 md:grid-cols-2 sm:gap-16 md:gap-20">
         {/* left side */}
-        <div className=" xl:-mt-20 sm:space-y-8 space-y-4">
+        <div className=" 2xl:-mt-20 sm:space-y-8 space-y-4">
           <h1 className="text-[30px] sm:text-[70px] md:text-[100px] text-black/70 md:leading-[82px] sm:leading-[60px] leading-[30px] font-medium">
             Growing your <br />{" "}
             <span className=" text-themeColor  ">Business</span>
